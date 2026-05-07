@@ -2,7 +2,7 @@
 def home_screen():
     return (
         "╔════════════════════╗\n"
-        "     🤖 NOVA AI APP\n"
+        "     🤖 LUNZALU AI APP\n"
         "╚════════════════════╝\n\n"
         "📱 Main Menu:\n\n"
         "1️⃣ Ask AI\n"
@@ -16,7 +16,7 @@ def home_screen():
 def format_ai(answer):
     return (
         "╭───────────────╮\n"
-        "   🤖 NOVA AI\n"
+        "   🤖 LUNZALU AI\n"
         "╰───────────────╯\n\n"
         f"{answer}\n\n"
         "────────────────\n"
